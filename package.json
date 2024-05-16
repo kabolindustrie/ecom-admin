@@ -12,6 +12,7 @@
     "@auth/mongodb-adapter": "^3.1.0",
     "axios": "^1.6.8",
     "mongodb": "^6.6.1",
+    "mongoose": "^8.3.5",
     "next": "14.2.3",
     "next-auth": "^4.24.7",
     "node": "^20.13.1",
